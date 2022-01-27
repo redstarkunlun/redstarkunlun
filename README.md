@@ -11,4 +11,4 @@
 <a href="https://github.com/reef1447">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reef1447&layout=compact&theme=dracula" />
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=reef1447)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=reef1447)](https://github.com/reef1447/github-profile-trophy)
