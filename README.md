@@ -5,9 +5,6 @@
 <a href="https://github.com/reef1447">
     <img height="20" src="https://img.shields.io/github/followers/reef1447?label=follow&logo=github&style=flat" />
   </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reef1447&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reef1447&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Counter](https://profile-counter.glitch.me/Neos21/count.svg)
 <a href="https://github.com/tocoteron">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=reef1447&count_private=true&show_icons=true&theme=dracula" />
 </a>
