@@ -7,9 +7,6 @@ Music botやサイトを作ってます<br>
 [Alpha-development](https://discord.gg/dbCfXDxxVv)<br>
 </a>
 </a>
-<a href="http://twitter.com/reeef992">
-    <img height="20" src="https://img.shields.io/twitter/follow/L270o?label=Twitter&logo=twitter&style=flat" />
-  </a>
 <a href="https://github.com/reef1447">
     <img height="20" src="https://img.shields.io/github/followers/reef1447?label=follow&logo=github&style=flat" />
   </a>
