@@ -31,11 +31,3 @@ Music botやサイトを作ってます<br>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/433026067050266634?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/433026067050266634)
 
-<h3 align="left"> • Github Stats</h3>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xfghoul&count_private=true&show_icons=true&locale=en&theme=gotham&&hide=contribs"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfghoul&theme=gotham&show_icons=true&locale=en&layout=compact"/>
-</a>
