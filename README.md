@@ -17,10 +17,9 @@ Music botやサイトを作ってます<br>
 <a href="https://github.com/reef1447">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reef1447&layout=compact&theme=dracula" />
 </a>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
+</a>
 <h3 align="left"> • Contact Me</h3>
  <a href="http://discord.com/users/Ghoul#6066"><img src="https://cdn.discordapp.com/emojis/891714351432601680.png" height="40px"/></a> <a href="https://twitter.com/xghouldev"><img src="https://images-ext-1.discordapp.net/external/rtyBUb7lMs04f-IAEdRiQ-UMUsOiZ-HmJc1Yr8yAFY0/%3Fsize%3D48/https/cdn.discordapp.com/emojis/230378391172284416.png" height="35px"/></a>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/317680706857861121?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/317680706857861121)
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
