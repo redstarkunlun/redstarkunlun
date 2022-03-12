@@ -24,4 +24,4 @@ Music botやサイトを作ってます<br>
 
 ---
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/433026067050266634?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/433026067050266634)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/317680706857861121?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/317680706857861121)
