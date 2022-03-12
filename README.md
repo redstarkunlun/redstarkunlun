@@ -21,3 +21,7 @@ Music botやサイトを作ってます<br>
 </a>
 <h3 align="left"> • Contact Me</h3>
  <a href="http://discord.com/users/Ghoul#6066"><img src="https://cdn.discordapp.com/emojis/891714351432601680.png" height="40px"/></a> <a href="https://twitter.com/xghouldev"><img src="https://images-ext-1.discordapp.net/external/rtyBUb7lMs04f-IAEdRiQ-UMUsOiZ-HmJc1Yr8yAFY0/%3Fsize%3D48/https/cdn.discordapp.com/emojis/230378391172284416.png" height="35px"/></a>
+
+---
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/433026067050266634?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/433026067050266634)
