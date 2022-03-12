@@ -25,3 +25,4 @@ Music botやサイトを作ってます<br>
 ---
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/317680706857861121?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/317680706857861121)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xfghoul&label=Profile%20views&color=0e75b6&style=flat-square" alt="xfghoul" /> </p>
