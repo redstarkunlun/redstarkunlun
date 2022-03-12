@@ -4,7 +4,8 @@ Music botやサイトを作ってます<br>
 中学3年の15歳です<br>
 | ==== discord server ==== |<br>
 [Noerror Studio™️](https://noerror.studio/)<br>
-[Alpha-development](https://discord.gg/dbCfXDxxVv)
+[Alpha-development](https://discord.gg/dbCfXDxxVv)<br>
+</a>
 </a>
 <a href="http://twitter.com/reeef992">
     <img height="20" src="https://img.shields.io/twitter/follow/l270o?label=Twitter&logo=twitter&style=flat" />
