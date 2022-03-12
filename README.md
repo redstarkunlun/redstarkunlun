@@ -17,6 +17,3 @@ Music botやサイトを作ってます<br>
 <a href="https://github.com/reef1447">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reef1447&layout=compact&theme=dracula" />
 </a>
----
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/317680706857861121?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/317680706857861121)
