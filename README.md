@@ -19,6 +19,6 @@ Music botやサイトを作ってます<br>
 </a>
 <p align="center"> <img src="https://komarev.com//?username=xfghoul&label=Profile%20views&color=0e75b6&style=flat-square" alt="xfghoul" /> </p>
 <h3 align="left"> • Contact Me</h3>
- <a href="http://discord.com/users/Ghoul#6066"><img src="https://cdn.discordapp.com/emojis/891714351432601680.png" height="40px"/></a> <a href="https://twitter.com/xghouldev"><img src="https://images-ext-1.discordapp.net/external/rtyBUb7lMs04f-IAEdRiQ-UMUsOiZ-HmJc1Yr8yAFY0/%3Fsize%3D48/https/cdn.discordapp.com/emojis/230378391172284416.png" height="35px"/></a>
+ <a href="http://discord.com/users/ANU#9999"><img src="https://cdn.discordapp.com/emojis/891714351432601680.png" height="40px"/></a> <a href="https://twitter.com/xghouldev"><img src="https://images-ext-1.discordapp.net/external/rtyBUb7lMs04f-IAEdRiQ-UMUsOiZ-HmJc1Yr8yAFY0/%3Fsize%3D48/https/cdn.discordapp.com/emojis/230378391172284416.png" height="35px"/></a>
 
 ---
