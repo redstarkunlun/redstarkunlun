@@ -2,7 +2,7 @@
 </a>
 Music botやサイトを作ってます<br>
 中学3年の15歳です<br>
-[myprofile](https://roreef.page.link/reefofficial)
+[myprofile](https://roreef.page.link/reefofficial)<br>
 | ==== discord server ==== |<br>
 [Noerror Studio™️](https://noerror.studio/)<br>
 [Alpha-development](https://discord.gg/dbCfXDxxVv)<br>
