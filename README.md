@@ -4,8 +4,8 @@
 [![](https://img.shields.io/github/followers/reef1447?label=follow&logo=github&style=flat)
 ](https://github.com/miwashutaro0611)
 
-[my site](https://roreef.com/)\n
-[my portfolio](https://roreef.com/portfolio/)\n
+[my site](https://roreef.com/)<br> 
+[my portfolio](https://roreef.com/portfolio/)<br> 
 [Terms-of-Use jp](https://roreef.com/Terms-of-Use)
 
 
