@@ -4,7 +4,10 @@
 [![](https://img.shields.io/github/followers/reef1447?label=follow&logo=github&style=flat)
 ](https://github.com/miwashutaro0611)
 
-[このプロフィールページで対応したことについて](https://jackswim3411.hatenablog.com/entry/2021/09/18/205206)
+[my site](https://roreef.com/)
+[my portfolio](https://roreef.com/portfolio/)
+[Terms-of-Use jp](https://roreef.com/Terms-of-Use)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reef1447&theme=dracula)
 
