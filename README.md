@@ -1,9 +1,6 @@
 ![maxresdefault](https://github.com/reef1447/reef1447.github.io/blob/main/8a7ef97955b98ebb93db40bae9892e29.jpeg)
 [![Sublime's custom image](https://github.com/miwashutaro0611/miwashutaro0611//raw/main/image/black.gif)
 ](https://codepen.io/miwashutaro0611/pen/rNwzKwK)
-
-[ ![miwashutaro0611](https://komarev.com/ghpvc/?username=miwashutaro0611)
-](https://github.com/miwashutaro0611/miwashutaro0611/)
 [![](https://img.shields.io/twitter/follow/jackmiwamiwa?label=Twitter&logo=twitter&style=flat)
 ](http://twitter.com/jackmiwamiwa)
 [![](https://img.shields.io/github/followers/miwashutaro0611?label=follow&logo=github&style=flat)
