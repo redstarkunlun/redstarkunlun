@@ -1,6 +1,6 @@
 ![maxresdefault](https://github.com/reef1447/reef1447.github.io/blob/main/8a7ef97955b98ebb93db40bae9892e29.jpeg)
-[![](https://img.shields.io/twitter/follow/dodi_210?label=Twitter&logo=twitter&style=flat)
-](http://twitter.com/dodi_210)
+[![](https://img.shields.io/twitter/follow/L207o?label=Twitter&logo=twitter&style=flat)
+](http://twitter.com/L207o)
 [![](https://img.shields.io/github/followers/reef1447?label=follow&logo=github&style=flat)
 ](https://github.com/miwashutaro0611)
 
