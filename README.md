@@ -20,7 +20,7 @@
 </a>
 </p>
 ---
-
+<br> 
 ### Discord Profile ✨
 ![Discord](https://discord.c99.nl/widget/theme-3/317680706857861121.png)
 
