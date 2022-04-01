@@ -18,9 +18,10 @@
 <a href="https://github.com/reef1447">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reef1447&layout=compact&theme=dracula" />
 </a>
-</a>
 ---
+  
 ### Discord Profile ✨
 ![Discord](https://discord.c99.nl/widget/theme-3/317680706857861121.png)
+  
 ---
-</p>
+  
