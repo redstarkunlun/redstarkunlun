@@ -6,7 +6,7 @@
 
 [my site](https://roreef.com/)<br> 
 [my portfolio](https://roreef.com/portfolio/)<br> 
-[Terms-of-Use jp](https://roreef.com/Terms-of-Use)
+[Terms-of-Use](https://roreef.com/Terms-of-Use)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reef1447&theme=dracula)
