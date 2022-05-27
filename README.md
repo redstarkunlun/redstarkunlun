@@ -1,5 +1,4 @@
 - 💚 &nbsp; Iam roeef and iam simping for elaina
-- 🎉 &nbsp; Demonstration are [here](https://replit.com/@KiaraSenpai) - [LernoxDev Latest Video](https://www.youtube.com/watch?v=G3yhZ78lYK0)
 - 👻 &nbsp; Open Source Web Hosting [reef Host](https://uptime.roreef.cf)
 - 📧 &nbsp; Contact me here `ro-reef#8899`
 
