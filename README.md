@@ -17,5 +17,23 @@
 
 <img align="right" height="275" width="375" alt="" src="https://c.tenor.com/e29eXYgnDCYAAAAd/the-journey-of-elaina-majo-no-tabitabi.gif" />
 
+Languages I Used
+
+<p align="left"><a href="https://discord.js.org/#/" target="_blank"><img src="https://cdn.discordapp.com/attachments/855346697029812231/873199215512285235/discord-js.png" alt="discord-js.png" height="40" width="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+</p>
+  
+___
+ My Stats
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=LewdHuTao&show_icons=true&theme=radical&line_height=27&v=5" alt="My GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LewdHuTao&theme=tokyonight" alt="My Streak" />
+
+___
+My Discord Profile
+
+<a href="https://discordapp.com/users/454278022132924417/">
+  <img src="https://discord.c99.nl/widget/theme-4/454278022132924417.png" />
+</a>
 
 Last Update Today May 25-2022 ``06:38``
