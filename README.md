@@ -22,10 +22,4 @@ ___
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=reef1447&theme=tokyonight" alt="My Streak" />
 
 ___
-My Discord Profile
-
-<a href="https://discordapp.com/users/317680706857861121/">
-  <img src="https://discord.c99.nl/widget/theme-4/317680706857861121.png" />
-</a>
-
 Last Update Today May 31-2022 ``03:40``
