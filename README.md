@@ -23,6 +23,6 @@
 [![](https://visitcount.itsvg.in/api?id=Feliciajp&icon=6&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by funding a small amount to my startup
-[![buymecoffee]<a href="https://www.buymeacoffee.com/64ffe1ne"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=64ffe1ne&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/64ffe1ne"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=64ffe1ne&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
