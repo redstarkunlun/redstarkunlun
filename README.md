@@ -1,7 +1,6 @@
 # 💫 About Me:
 
 - 💚 &nbsp; Iam Felicia and iam simping for elaina
-- 👻 &nbsp; Open Source Web Hosting [Xylia Host](https://uptime.Xylia#9999.cc)
 - 📧 &nbsp; Contact me here `Maron#99999`
 
 ## 🌐 Socials:
