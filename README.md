@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-- 💚 &nbsp; Iam Felicia and iam simping for elaina
-- 📧 &nbsp; Contact me here `Maron#99999`
+- 💚 &nbsp; Iam かふぇいん and iam simping for elaina
+- 📧 &nbsp; Contact me here `hc_redstarkunlun`
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/noerror)
