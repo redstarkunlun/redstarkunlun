@@ -4,7 +4,7 @@
 - 📧 &nbsp; Contact me here `hc_redstarkunlun`
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/noerror)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/yvNTkGNDFj])
 [![Better Stack](https://uptime.betterstack.com/status-badges/v1/monitor/p6e5.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 # 💻 Tech Stack:
