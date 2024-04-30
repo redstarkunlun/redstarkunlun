@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 💚 &nbsp; Iam かふぇいん and iam simping for ![nakaimiki](https://www.twitch.tv/nakaimiki/about)
+- 💚 &nbsp; Iam かふぇいん and iam simping for [nakaimiki](https://www.twitch.tv/nakaimiki/about)
 - 📧 &nbsp; Contact me here `hc_redstarkunlun`
 
 ## 🌐 Socials:
